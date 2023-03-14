@@ -1,6 +1,4 @@
-# Brew
-
-### yt-dlp
+# yt-dlp
 List Formats:
 ```bash
 yt-dlp -F 
