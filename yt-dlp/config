@@ -1,0 +1,12 @@
+--cookies-from-browser chrome
+--sub-format ass
+--sub-format srt
+--sub-format vtt
+--sub-langs en
+--sub-langs en-US
+--sub-langs eng
+--sub-langs english-subs
+--sub-langs jpn
+--sub-langs th
+--sub-langs tha
+-o ~/Downloads/%(title)s.%(ext)s
